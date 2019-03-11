@@ -1,0 +1,38 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>icons/icons8-about-50.png</file>
+    <file>icons/icons8-add-file-50.png</file>
+    <file>icons/icons8-add-folder-50.png</file>
+    <file>icons/icons8-add-list-50.png</file>
+    <file>icons/icons8-bookmark-50.png</file>
+    <file>icons/icons8-calendar-50.png</file>
+    <file>icons/icons8-cancel-50.png</file>
+    <file>icons/icons8-checked-50.png</file>
+    <file>icons/icons8-checkmark-50.png</file>
+    <file>icons/icons8-contacts-50.png</file>
+    <file>icons/icons8-delete-50.png</file>
+    <file>icons/icons8-document-50.png</file>
+    <file>icons/icons8-download-48.png</file>
+    <file>icons/icons8-download-50.png</file>
+    <file>icons/icons8-download-from-the-cloud-50.png</file>
+    <file>icons/icons8-edit-50.png</file>
+    <file>icons/icons8-export-50.png</file>
+    <file>icons/icons8-file-50.png</file>
+    <file>icons/icons8-home-50.png</file>
+    <file>icons/icons8-idea-50.png</file>
+    <file>icons/icons8-image-file-50.png</file>
+    <file>icons/icons8-import-50.png</file>
+    <file>icons/icons8-info-50.png</file>
+    <file>icons/icons8-ok-50.png</file>
+    <file>icons/icons8-opened-folder-50.png</file>
+    <file>icons/icons8-plus-50.png</file>
+    <file>icons/icons8-refresh-50.png</file>
+    <file>icons/icons8-restart-50.png</file>
+    <file>icons/icons8-search-50.png</file>
+    <file>icons/icons8-search-folder-50.png</file>
+    <file>icons/icons8-settings-50.png</file>
+    <file>icons/icons8-synchronize-50.png</file>
+    <file>icons/icons8-trash-can-50.png</file>
+    <file>icons/icons8-unavailable-50.png</file>
+</qresource>
+</RCC>
